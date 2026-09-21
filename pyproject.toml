@@ -1,6 +1,7 @@
 [project]
-name = "service-shell"
+name = "tiandi-classroom-broadcast"
 version = "0.1.0"
+description = "天地课堂联播台：港澳多校天地连线参与计划、排期锁定与冲突通知总控服务"
 requires-python = ">=3.11"
 
 [tool.unittest]
